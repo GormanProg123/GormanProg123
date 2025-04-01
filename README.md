@@ -8,7 +8,7 @@ I specialize in **Web Development** & **Game Development** 🚀
 | Skill        | Technologies |
 |-------------|-------------|
 | **Frontend**  | JavaScript, TypeScript, React.js, HTML, CSS |
-| **Backend**   | Node.js, PostgreSQL |
+| **Backend**   | Node.js, PostgreSQL, Golang |
 | **Game Dev**  | Unity (C#) |
 | **Other**     | Git |
 
