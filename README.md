@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm a **Bachelor's student** at **Collegium Da Vinci**, Poland 🎓  
-I specialize in **Web Development** & **Game Development** 🚀  
+I specialize in **Web Development** 🚀  
 
 ## 🔥 About Me  
 
