@@ -9,7 +9,7 @@ I specialize in **Web Development** & **Game Development** 🚀
 |-------------|-------------|
 | **Frontend**  | JavaScript, TypeScript, React, HTML, CSS |
 | **Backend**   | Node.js, PostgreSQL, Go, NestJS |
-| **Other**     | Git |
+| **Other**     | Git, Jira, Swagger |
 
 🔗 **[My LinkedIn](https://www.linkedin.com/in/heorhi-parfenchyk-ba94982a3/?locale=en_US)**
 
