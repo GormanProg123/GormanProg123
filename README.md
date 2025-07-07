@@ -8,8 +8,7 @@ I specialize in **Web Development** & **Game Development** 🚀
 | Skill        | Technologies |
 |-------------|-------------|
 | **Frontend**  | JavaScript, TypeScript, React, HTML, CSS |
-| **Backend**   | Node.js, PostgreSQL, Go |
-| **Game Dev**  | Unity (C#) |
+| **Backend**   | Node.js, PostgreSQL, Go, NestJS |
 | **Other**     | Git |
 
 🔗 **[My LinkedIn](https://www.linkedin.com/in/heorhi-parfenchyk-ba94982a3/?locale=en_US)**
