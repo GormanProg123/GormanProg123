@@ -7,7 +7,7 @@ I specialize in **Web Development** 🚀
 
 | Skill        | Technologies |
 |-------------|-------------|
-| **Frontend**  | JavaScript, TypeScript, React, HTML, CSS |
+| **Frontend**  | JavaScript, TypeScript, React, HTML/CSS, React Native |
 | **Backend**   | Node.js, PostgreSQL, NestJS |
 | **Other**     | Git, Jira, Swagger |
 
